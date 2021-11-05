@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cuaderno
+comment1.params=color\ hojas
+comment1.target=Cuaderno(java.lang.String,\ int)
+comment1.text=\ Crea\ el\ cuaderno\ con\ el\ color\ y\ numero\ de\ hojas\ dado.\r\n\ El\ cuaderno\ comienza\ siempre\ cerrado.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getColorTapas()
+comment3.params=
+comment3.target=int\ getnumeroHojas()
+comment4.params=
+comment4.target=boolean\ getSiAbierto()
+comment5.params=color
+comment5.target=void\ setColorTapas(java.lang.String)
+comment6.params=hojasArrancadas
+comment6.target=void\ arrancarHojas(int)
+comment7.params=
+comment7.target=void\ usarCuaderno()
+comment8.params=
+comment8.target=void\ imprimeDetalles()
+comment9.params=
+comment9.target=java.lang.String\ verEstado()
+numComments=10
